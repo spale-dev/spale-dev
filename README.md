@@ -23,7 +23,7 @@
 		<img align="right" width=350px src="https://media4.giphy.com/media/vPDfV26hKegow/giphy.gif?cid=ecf05e47xb9rdb5jau5uca5b39mu8304bqch2z9is44g5vuo&rid=giphy.gif&ct=g" alt="sleep">
 		<ul align="left">
 			<li>🔭 I’m currently working on college</li><br>
-			<li>🌱 I’m currently learning Lua and JavaScript</li><br>
+			<li>🌱 I’m currently learning Lua, JavaScript and C#</li><br>
 			<li>📫 How to reach me: Bongo#7399</li><br>
 			<li>⚡ Fun fact: College is a waste of time</li><br>
 		</ul>
