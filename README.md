@@ -1,35 +1,3 @@
-<div id="header" align="center">
-	<img src="https://media.tenor.com/images/bfe989ec4fc0e50ed499729313f0eea1/tenor.gif"/>
-	<div id="badges">
-	  <a href="https://www.youtube.com/channel/UCcI6oRn-H9DMRojfcutyfLA">
-		<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-	  </a>
-	  <a href="https://twitter.com/xd_Bongo">
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-	  </a>
-	</div>
-	<img src="https://komarev.com/ghpvc/?username=bongo-dev&style=flat-square&color=blue" alt=""/>
-</div>
-<div>
-	<div align="center">
-		<h1>
-		  <img src="https://media2.giphy.com/media/AJIZdipBcyzSg/giphy.gif?cid=790b7611p1xsvr1awnhhkkn588mg8m7zy60q2jc71dwpbetm&rid=giphy.gif&ct=s" width="50px"/>
-		</h1>
-	</div>
-	<h3>
-			Hello, my username is Bongo and I am a beginner that is looking to expand his skills.
-	</h3>
-	<div>
-		<img align="right" width=350px src="https://media4.giphy.com/media/vPDfV26hKegow/giphy.gif?cid=ecf05e47xb9rdb5jau5uca5b39mu8304bqch2z9is44g5vuo&rid=giphy.gif&ct=g" alt="sleep">
-		<ul align="left">
-			<li>🔭 I’m currently working on college</li><br>
-			<li>🌱 I’m currently learning: React, TypeScript</li><br>
-			<li>📫 How to reach me: Bongo#7399</li><br>
-			<li>⚡ Fun fact: College is a waste of time</li><br>
-		</ul>
-	</div>
-</div>
-<hr>
 <div>
 	<div>
 		<h2>
@@ -57,10 +25,4 @@
 		</div>
 	</div>
 	</div>
-</div>
-<hr>
-<div align=center>
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongo-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-	
 </div>
