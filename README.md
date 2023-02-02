@@ -6,6 +6,7 @@
 
     🔭 I’m currently working on a portfolio
     🌱 I’m currently learning TypeScript, NextJS, TailwindCSS and Figma
+    📫 How to reach me: spale#0549 @ Discord
     ⚡ Fun fact: I love 🚀 Space! 🚀
 
 <br>
