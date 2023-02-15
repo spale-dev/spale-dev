@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stefano 🇧🇪 🇮🇹</h1>
 
-<h3 align="center">A self-taught full stack developer seeking to expand his skills</h3>
+<h3 align="center">Aspiring full stack developer seeking to expand his skills</h3>
 
 <br>
 
