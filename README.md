@@ -4,7 +4,7 @@
 
 <br>
 
-    🔭 I’m currently finding a project to work on
+    🔭 I’m currently working on PokeWeb!
     🌱 I’m currently learning TypeScript, NextJS, TailwindCSS and Figma
     📫 How to reach me: spale#0549 @ Discord
     ⚡ Fun fact: I love 🚀 Space! 🚀
