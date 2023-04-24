@@ -4,8 +4,8 @@
 
 <br>
 
-    🔭 I’m currently working on PokeWeb!
-    🌱 I’m currently learning TypeScript, NextJS, TailwindCSS and Figma
+    🔭 I’m currently working on a School Project, PokeWeb and a Sorting Visualizer!
+    🌱 I’m currently learning TypeScript, NextJS and Vue.js!
     📫 How to reach me: spale#0549 @ Discord
     ⚡ Fun fact: I love 🚀 Space! 🚀
 
@@ -17,7 +17,7 @@
   
   <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,net,java,mysql,py,express&theme=dark&perline=5">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,net,java,mysql,py,express&theme=dark&perline=5">
   </a>
 
   <br>
@@ -25,7 +25,7 @@
   <h2 align="center">✅ Tools ✅</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,postman,webpack,docker,git,vscode,ps,pr&theme=dark&perline=4">
+    <img src="https://skillicons.dev/icons?i=bash,postman,webpack,docker,git,vscode,ps,pr,figma&theme=dark&perline=4">
   </a>
 
   <br>
@@ -33,7 +33,7 @@
   <h2 align="center">✍️ Currently Learning ✍️</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,next,figma,tailwind&theme=dark&perline=2">
+    <img src="https://skillicons.dev/icons?i=ts,next,vue&theme=dark&perline=3">
   </a>
 </div>
 
