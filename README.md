@@ -4,38 +4,9 @@
 
 <br>
 
-    🔭 I’m currently working on a School Project, PokeWeb and a Sorting Visualizer!
-    🌱 I’m currently learning TypeScript, NextJS and Vue.js!
+    🌱 I’m currently learning TypeScript and NextJS!
     📫 How to reach me: spale#0549 @ Discord
     ⚡ Fun fact: I love 🚀 Space! 🚀
-
-<br>
-
----
-
-  <h2 align="center">✅ Languages & Frameworks ✅</h2>
-  
-  <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,net,java,mysql,py,express&theme=dark&perline=5">
-  </a>
-
-  <br>
-
-  <h2 align="center">✅ Tools ✅</h2>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,postman,webpack,docker,git,vscode,ps,pr,figma&theme=dark&perline=4">
-  </a>
-
-  <br>
-
-  <h2 align="center">✍️ Currently Learning ✍️</h2>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,next,vue&theme=dark&perline=3">
-  </a>
-</div>
 
 <br>
 
