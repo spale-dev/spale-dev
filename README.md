@@ -2,14 +2,6 @@
 
 <h3 align="center">Aspiring full stack developer seeking to expand his skills</h3>
 
-<br>
-
-    🌱 I’m currently learning TypeScript and NextJS!
-    📫 How to reach me: spale#0549 @ Discord
-    ⚡ Fun fact: I love 🚀 Space! 🚀
-
-<br>
-
 ---
 
   <h2 align="center"> Github Statistics 📈 </h2>
